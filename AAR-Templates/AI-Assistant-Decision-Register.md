@@ -12,9 +12,13 @@ and unauthorized changes to established requirements.
 
 | ID | Date | Project | Decision | Evidence | Status |
 |---|---|---|---|---|---|
-| DEC-001 | | | | | Active |
-| DEC-002 | | | | | Active |
-| DEC-003 | | | | | Active |
+| DEC-001 | 2026-11-16 | Employment search | Require genuinely remote work from Colombia; Venezuela-compatible work preferred for longer-term relocation. Hybrid only in Maracaibo; onsite elsewhere only with explicitly verified visa assistance. | User-confirmed search criteria in conversation | Active |
+| DEC-002 | 2026-11-16 | Employment search | Prefer full-time employee on compliant Colombian payroll or EOR; foreign payroll must be verified. Do not recommend 1099, C2C, or independent-contractor arrangements as eligible without a changed instruction. | User-confirmed search criteria in conversation | Active |
+| DEC-003 | 2026-11-16 | Employment search | Search senior cybersecurity, GRC, AI governance, OT/ICS, network operations, infrastructure, service assurance, technical support and customer advisory using transferable skills; do not invent coding, SaaS administration, or other unverified qualifications. | User-confirmed search criteria in conversation | Active |
+| DEC-004 | 2026-11-16 | Employment search | Discover via free job boards, recruiters and employer sites, but verify the current employer-hosted application, location, qualifications and employment terms before presenting a vacancy as actionable. | User-confirmed search criteria in conversation | Active |
+| DEC-005 | 2026-11-16 | Employment search | Check prior applications, rejections, closed postings and previously shown roles before recommending; do not repeat a rejected or closed job as new. | User-confirmed search criteria in conversation | Active |
+| DEC-006 | 2026-11-16 | Documentation | Resume and cover-letter claims must be truthful, ATS-readable and grounded in verified experience; confirm downloadable files actually exist before providing links. | User-confirmed documentation criteria in conversation | Active |
+| DEC-007 | 2026-11-16 | Privacy | Public GitHub records contain process rules and non-sensitive correction examples only; do not publish private communications, financial details, personal identifiers or confidential application evidence. | User authorization 2026-11-16 | Active |
 
 ## 3. Decision Status
 
