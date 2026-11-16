@@ -42,6 +42,7 @@ with an older preference.
 | AI-Assistant-Verification-Checklist.md | Pre-delivery quality controls | Active |
 | AI-Assistant-Context-Recovery.md | Procedure to reconstruct missing context | Active |
 | AI-Assistant-Master-Memory-Index.md | Navigation and recovery index | Active |
+| AI-Assistant-Employment-Search-Runbook.md | Mandatory AAR-first pre-search, duplicate, hard-gate and publication controls | Active |
 | Cybersecurity-AAR-Template.md | Incident review | Active |
 | Corrective-Action-Register.md | Remediation tracking | Active |
 | Root-Cause-Analysis-Template.md | Root cause investigation | Active |
@@ -56,7 +57,7 @@ with an older preference.
 |---|---|---|---|
 | Cybersecurity AAR Library | AAR-Templates | | Active |
 | AI Assistant Error Prevention | AI-Assistant-Memory-and-Error-Register.md | | Active |
-| Employment Research | Decision Register and Error Register (non-sensitive rules only) | 2026-11-16 | Active |
+| Employment Research | Employment-Search Runbook, Decision Register and Error Register (public process rules only) | 2026-11-16 | Active |
 | Professional Documentation | Approved resume and document records | | Active |
 
 ## 5. Critical Verification Rules
