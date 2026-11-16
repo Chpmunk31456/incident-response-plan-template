@@ -48,9 +48,10 @@ If the repository cannot be accessed, disclose that limitation.
 
 | Error ID | Date | Task | Error | Correct Information | Root Cause | Prevention Rule | Evidence | Status |
 |---|---|---|---|---|---|---|---|---|
-| ERR-001 | | | | | | | | Open |
-| ERR-002 | | | | | | | | Open |
-| ERR-003 | | | | | | | | Open |
+| ERR-001 | 2026-11-16 | Employment search | Previously surfaced expired or inaccessible job postings. | Treat employer application page as authoritative; if unavailable mark CLOSED or UNVERIFIED, not APPLY. | Verification gap; exact cause not established. | Reopen employer ATS and confirm application availability before recommendation. | User-reported closed postings in conversation; no private correspondence reproduced. | Open |
+| ERR-002 | 2026-11-16 | Employment search | Previously repeated opportunities already reviewed or submitted. | Check current application/review history before labeling an opportunity new. | Context reconciliation gap; exact cause not established. | Deduplicate by employer, job title, requisition and canonical URL. | User corrections in conversation. | Open |
+| ERR-003 | 2026-11-16 | Context continuity | Earlier decisions were not consistently carried into later work. | Retrieve current project decisions, previous corrections and authoritative records when context is missing. | Incomplete context retrieval; exact cause not established. | Apply context-recovery checklist and state when retrieval is unavailable. | User corrections in conversation. | Open |
+| ERR-004 | 2026-11-16 | Deliverables | Completion claims risk being made without independently verifying output or repository changes. | Confirm file existence, commit result or application receipt before claiming completion. | Verification control gap; occurrence and scope require case-specific review. | Use explicit completion evidence and distinguish user-reported from independently verified. | Conversation-derived prevention requirement. | Open |
 
 ## 5. Error Categories
 
@@ -91,8 +92,10 @@ For significant errors, document:
 
 | Action ID | Related Error | Corrective Action | Owner | Due Date | Verification Method | Status |
 |---|---|---|---|---|---|---|
-| CA-001 | | | | | | Open |
-| CA-002 | | | | | | Open |
+| CA-001 | ERR-001 | Verify current employer-hosted application before recommending. | AI assistant | Before each recommendation | Confirm active employer application and eligibility | Active |
+| CA-002 | ERR-002 | Reconcile application and previously reviewed history. | AI assistant | Before each search result | No duplicates in new recommendations | Active |
+| CA-003 | ERR-003 | Retrieve project decisions and corrections when context is incomplete. | AI assistant | At relevant task start | Cite or identify recovered records | Active |
+| CA-004 | ERR-004 | Verify artifact or action before claiming success. | AI assistant | Before reporting completion | File, commit or receipt evidence | Active |
 
 ## 8. Lessons Learned
 
