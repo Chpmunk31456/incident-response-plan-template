@@ -38,6 +38,10 @@ with an older preference.
 | Document | Purpose | Status |
 |---|---|---|
 | AI-Assistant-Memory-and-Error-Register.md | Record mistakes and corrections | Active |
+| AI-Assistant-Decision-Register.md | Active project decisions and user instructions | Active |
+| AI-Assistant-Verification-Checklist.md | Pre-delivery quality controls | Active |
+| AI-Assistant-Context-Recovery.md | Procedure to reconstruct missing context | Active |
+| AI-Assistant-Master-Memory-Index.md | Navigation and recovery index | Active |
 | Cybersecurity-AAR-Template.md | Incident review | Active |
 | Corrective-Action-Register.md | Remediation tracking | Active |
 | Root-Cause-Analysis-Template.md | Root cause investigation | Active |
@@ -52,7 +56,7 @@ with an older preference.
 |---|---|---|---|
 | Cybersecurity AAR Library | AAR-Templates | | Active |
 | AI Assistant Error Prevention | AI-Assistant-Memory-and-Error-Register.md | | Active |
-| Employment Research | Dedicated job-search records | | Active |
+| Employment Research | Decision Register and Error Register (non-sensitive rules only) | 2026-11-16 | Active |
 | Professional Documentation | Approved resume and document records | | Active |
 
 ## 5. Critical Verification Rules
@@ -150,7 +154,7 @@ state the limitation rather than guessing.
 
 **Document Owner:** Repository Maintainer
 
-**Last Reviewed:**
+**Last Reviewed:** 2026-11-16
 
 **Next Review:**
 
