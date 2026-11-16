@@ -15,14 +15,14 @@ Find genuinely NEW, employer-verified roles that meet the candidate's actual qua
 
 ## Candidate screening hard gates
 - Original official employer career page/ATS is live and accepting an application (or verified authorized recruiter original opening); stale indexed/aggregator page is discovery only.
-- Exact work authorization: physical work from Colombia or Venezuela, independently evaluated; "remote", "LATAM", "worldwide" and U.S.-remote do not prove it. Hybrid only when physically in Maracaibo; onsite only with explicitly verified visa/work authorization assistance, relocation and compatible employee terms.
-- Legal compensation structure: full-time salaried employee on Colombian payroll, compliant EOR, or verified cross-border payroll. W-2 only if legal while physically abroad. No 1099, C2C, freelancer as eligible. If not evidenced, classify VERIFY FIRST, not APPLY.
+- Exact authorized work location must match the PRIVATE user profile, independently evaluated for each approved country; terms such as 'remote', 'LATAM', 'worldwide' or 'US-remote' are not enough. Hybrid and onsite exceptions must satisfy the user's latest private documented location/immigration rules.
+- Legal compensation structure must match the user's current approved private employment rules. Full-time hours alone do not prove employee status; independently verify payroll/EOR feasibility. Unapproved independent contracting is not eligible. Unknown legal structure means VERIFY FIRST, not APPLY.
 - Genuine mandatory qualifications: prior experience, platforms, industry, degree, language and licenses; no invented coding, SaaS tenure or professional certifications. English and Spanish only; Portuguese not claimed. Exclude hard unsupported requirements. Fit must be at least 85% substantively demonstrated; percentages are qualitative estimates.
-- Compensation: candidate target is USD 5,000/month **net after tax**; published pay must be tested against tax/benefits assumptions if available. Unpublished pay means UNVERIFIED, not sufficient for "all hard gates pass".
-- No existing application, prior reviewed/declined posting or rejections. A repost or job-board mirror never becomes new merely because the URL changes.
+- Compensation must meet the PRIVATE user-specific net threshold when evidence is available. Never publish their actual threshold in this public repository. Unpublished pay means UNVERIFIED, not a confirmed pass.
+- No existing application, prior reviewed/declined posting or rejection. A repost or job-board mirror never becomes new merely because the URL changes.
 
 ## Candidate skills and search scope
-Search all seven evidenced families: (1) cybersecurity/GRC/AI governance and audit, (2) telecom/carrier/MPLS/Ethernet network architecture and service assurance, (3) enterprise infrastructure, operations and resilience, (4) non-quota customer technical advisory, (5) technical project/program management and implementations (no unsupported software PM tenure or PMP), (6) technology governance/vendor risk/controls/continuity, and (7) energy, utilities, OT/ICS/SCADA. Review responsibilities instead of limiting search to familiar title strings. The user has substantial network engineering, technical-delivery, customer-service and security-governance background, not mandated SaaS portfolio tenure or substantial coding engineering.
+Retrieve the full verified career evidence and latest eligibility requirements from the PRIVATE master CV, Engram, and private job-search records. Search relevant adjacent duties and transferable skill families, not just familiar job titles. Never invent mandatory credentials, language proficiency, industry tenure, coding experience, or salary. Do not store a personal career biography in this public runbook.
 
 ## Discovery hierarchy and stop rules
 - Favor first-party employer/ATS URLs and free official recruiter jobs.
@@ -32,7 +32,7 @@ Search all seven evidenced families: (1) cybersecurity/GRC/AI governance and aud
 - No emails, applications or recruiter outreach without user instruction. Do not repeat questions already answered.
 
 ## Publication gate
-For every result show: employer, exact title and requisition, first-party live URL, date checked, candidate eligibility (CO and VE separately), work mode, full-time employee/payroll status, mandatory qualification fit/evidence gaps, pay, previously-applied check, and decision:
+For every result show: employer, exact title and requisition, first-party live URL, date checked, authorized work-country eligibility independently, work mode, full-time employee/payroll status, mandatory qualification fit/evidence gaps, pay, previously-applied check, and decision:
 **APPLY** = every hard gate evidenced; **VERIFY FIRST** = genuinely promising but a material gate unknown; **EXCLUDE** = a hard gate failed; **DUPLICATE** = prior reviewed/applied/rejected/passed/closed.
 For 'next job' show at most ONE APPLY posting; otherwise say "No fully verified new qualified job found" and optionally present a clearly separate verification lead only if the user wants it. Do not call unknown a pass.
 
