@@ -174,3 +174,10 @@ before using them.
 
 The register does not guarantee automatic recall,
 persistent internal memory, or error-free responses.
+
+
+## ERR-007 — Repeat recommendation despite known submitted application (2026-11-17)
+- Failure: An employer ATS requisition already confirmed as applied was recommended again as a new lead. A subsequent correction was made only after user intervention.
+- Root cause: Search result publication occurred before canonical requisition ID, employer/title aliases, prior application receipts, and memory/Engram duplicate reconciliation were complete.
+- CA-007: Hard-stop publication until history/Engram lookup and canonical employer+ATS ID match are complete. Record proof of negative duplicate search; UNKNOWN is not NEW. Do not treat an employer career page or active Apply button as proof of a new opportunity.
+- Validation: Test each proposed job against a known submitted requisition, its mirrored URLs, and title variants before presentation; suppress all exact matches. Do not disclose private applicant history in this public repository.
