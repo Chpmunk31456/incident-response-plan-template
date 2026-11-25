@@ -123,3 +123,7 @@ ChatGPT memory.
 
 The assistant must retrieve the relevant
 information before relying on it.
+
+
+## DEC-009 — Employment search governance and evidence (2026-11-25)
+Active. User approved coordinated AAR, private persistent decisions/history, available chat memory, designated private tracker, private source registry and scheduled execution. The employment runbook governs coverage logging, evidence retention, version reconciliation and operational acceptance. A saved configuration does not prove source execution. Keep applicant-specific details private; preserve established eligibility gates, alert criteria, and schedules. Do not spend or perform outreach/application actions without authorization.
